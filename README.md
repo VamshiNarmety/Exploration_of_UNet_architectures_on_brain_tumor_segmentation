@@ -2,6 +2,7 @@
 This project implements and compares multiple UNet-based architectures (UNet, UNet++, Attention UNet, and Sharp UNet) for brain tumor segmentation using MRI images.  
 Performance is evaluated using metrics like Dice, IoU, Precision, and Recall, with experiments conducted across different encoder backbones.
 
+[link to the findings and comprehensive report](https://drive.google.com/file/d/1ZzX8yncAR7-ozLRJlxnElrQu2MwjZSql/view)
 # Dataset
 
 The dataset used is the **Brain Tumor MRI Segmentation** dataset. Make sure the dataset is downloaded and placed appropriately before training or evaluation. The structure and path may need to be adjusted depending on your platform (Kaggle, Colab, or local machine).
