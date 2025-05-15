@@ -42,6 +42,10 @@ Exploration_of_UNet_architectures_on_brain_tumor_segmentation/<br>
 ![performance of Models on the dataset](results.png)
 
 
+# Models
+
+[link to the files of Model weights trained during our experiments](https://drive.google.com/drive/folders/1T8iP5DPFwgffSSa08WJTFWp5o5djwU5J?usp=drive_link)
+
 # References
 1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) - O. Ronneberger, P. Fischer, and T. Brox, 2015  
 2. [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](https://arxiv.org/abs/1807.10165) - Z. Zhou et al., 2018  
