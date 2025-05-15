@@ -21,20 +21,20 @@ and also code was run on kaggle notebooks for accessing GPUs, so make sure to ch
 
 
 # Repo structure
-Exploration_of_UNet_architectures_on_brain_tumor_segmentation/
-│
-├── UNET_Notebooks/                         # Notebooks of Model training and testing of UNET+pretrained encoders
-│
-├── AttUNET_Notebooks/                         # Notebooks of Model training and testing of AttUNET+pretrained encoders
-│
-├── UNETPP_Notebooks/                         # Notebooks of Model training and testing of UNETPlusPlus+pretrained encoders
-│
-├── SharpUNET_Notebooks/                         # Notebooks of Model training and testing of SharpUNET+pretrained encoders
-├── Src/models/
-   ├── UNET/                                     # codes of UNET+ pretrained encoders
-   ├── UNETPP/                                   # codes of UNETPP+pretrained encoders
-   ├── AttUNET/                                  # codes of AttUNET+pretrained encoders
-   └── SharpUNET/                                # codes of SharpUNET+pretrained encoders
+Exploration_of_UNet_architectures_on_brain_tumor_segmentation/<br>
+│<br>
+├── UNET_Notebooks/                         # Notebooks of Model training and testing of UNET+pretrained encoders<br>
+│<br>
+├── AttUNET_Notebooks/                         # Notebooks of Model training and testing of AttUNET+pretrained encoders<br>
+│<br>
+├── UNETPP_Notebooks/                         # Notebooks of Model training and testing of UNETPlusPlus+pretrained encoders<br>
+│<br>
+├── SharpUNET_Notebooks/                         # Notebooks of Model training and testing of SharpUNET+pretrained encoders<br>
+├── Src/models/<br>
+   ├── UNET/                                     # codes of UNET+ pretrained encoders<br>
+   ├── UNETPP/                                   # codes of UNETPP+pretrained encoders<br>
+   ├── AttUNET/                                  # codes of AttUNET+pretrained encoders<br>
+   └── SharpUNET/                                # codes of SharpUNET+pretrained encoders<br>
 
 
 # Results
